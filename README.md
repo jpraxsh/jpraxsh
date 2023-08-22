@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jayaprakash
-- 👀 I’m interested in Problem Solving,Web developement.
+- 👋 Hi, I’m @jayaprakash pursuing B.E. CSE @ MIT 
+- 👀 I’m interested in Internet Of Things, Backend Developement, Machinelearning.
 - 🌱 I’m currently learning flask.
 - 📫 How to reach me jayaprakashmit3@gmail.com.
 
