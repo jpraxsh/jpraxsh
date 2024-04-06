@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jayaprakash pursuing B.E. CSE @ MIT 
-- 👀 I’m interested in Internet Of Things, Backend Developement, Machinelearning.
-- 🌱 I’m currently learning flask.
+- 👀 I’m interested in Internet Of Things,Web Developement, Deeplearning.
+- 🌱 I’m currently learning react, javascript.
 - 📫 How to reach me jayaprakashmit3@gmail.com.
 
 <!---
