@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @jayaprakash pursuing B.E. CSE @ MIT 
-- 👀 I’m interested in Internet Of Things,Web Developement, Deeplearning.
-- 🌱 I’m currently learning react, javascript.
-- 📫 How to reach me jayaprakashmit3@gmail.com.
+### Hi, I'm Jayaprakash S 👋
 
-<!---
-jpraxsh/jpraxsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a **Software Engineer at Versa Networks**, building scalable enterprise-grade web applications used by over 1,000 customers. My expertise lies in **React.js**, performance optimization, and modernizing legacy systems for high availability. I have a deep understanding of web networking concepts and a passion for delivering maintainable, high-quality code.
+
+[**LinkedIn**](https://www.linkedin.com/in/jayaprakash-s) • [**Email**](mailto:jayaprakashmit3@gmail.com)
